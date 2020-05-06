@@ -3,7 +3,7 @@ templateKey: index-page
 title: cofefe with a conscience
 image: /img/home-jumbotron.jpg
 heading: Superb coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: update the subheading
 mainpitch:
   title: Why Kaldi
   description: >
