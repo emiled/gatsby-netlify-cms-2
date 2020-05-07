@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: cofefeeeee with a conscience
+title: New Title
 image: /img/home-jumbotron.jpg
 heading: Superb coffee with a conscience
 subheading: update the subheading
